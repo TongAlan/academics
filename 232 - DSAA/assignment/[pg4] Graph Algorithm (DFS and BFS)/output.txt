@@ -1,0 +1,9 @@
+BFS Nodes In Order: {D,A,B,C,E,F,}
+DFS Nodes In Order: {D,E,F,C,B,A,}
+ADJACENCY LIST WITH WEIGHTS 
+[A] -> A (2) -> C (5) -> D (7) -> E (9)
+[B] -> A (6) -> C (10) -> D (7) -> E (7)
+[C] -> B (10) -> D (8) -> E (5) -> F (6)
+[D] -> A (4) -> B (7) -> C (8) -> E (12)
+[E] -> B (7) -> C (5) -> D (12) -> F (7)
+[F] -> C (6) -> E (7)
